@@ -1,0 +1,27 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:upgrade_feeding",
+        "data": 0
+    },
+    "pattern": [
+        " B ",
+        "GUG",
+        " H "
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "U": {
+            "item": "ironbackpacksredone:upgrade_base"
+        },
+        "H": {
+            "item": "minecraft:hopper"
+        },
+        "G": {
+            "item": "minecraft:golden_apple",
+            "data": 0
+        },
+        "B": {
+            "item": "minecraft:beetroot"
+        }
+    }
+}

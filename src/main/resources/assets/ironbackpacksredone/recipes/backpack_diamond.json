@@ -1,0 +1,24 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:backpack_diamond",
+        "data": 0
+    },
+    "pattern": [
+        "DDD",
+        "CBC",
+        "DDD"
+    ],
+    "type": "ironbackpacksredone:backpack_upgrade",
+    "key": {
+        "C": {
+            "item": "#CHEST"
+        },
+        "D": {
+            "item": "#GEM_DIAMOND"
+        },
+        "B": {
+            "item": "ironbackpacksredone:backpack_gold",
+            "data": 0
+        }
+    }
+}

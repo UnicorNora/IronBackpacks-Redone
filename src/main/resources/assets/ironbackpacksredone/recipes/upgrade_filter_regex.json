@@ -1,0 +1,23 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:upgrade_filter_regex",
+        "data": 0
+    },
+    "pattern": [
+        "G",
+        "U",
+        "B"
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "U": {
+            "item": "ironbackpacksredone:upgrade_filter"
+        },
+        "B": {
+            "item": "#BOOK"
+        },
+        "G": {
+            "item": "#INGOT_GOLD"
+        }
+    }
+}

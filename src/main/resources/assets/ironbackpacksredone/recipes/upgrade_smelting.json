@@ -1,0 +1,23 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:upgrade_smelting",
+        "data": 0
+    },
+    "pattern": [
+        "CFC",
+        "FUF",
+        "CFC"
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "U": {
+            "item": "ironbackpacksredone:upgrade_base"
+        },
+        "F": {
+            "item": "#FURNACE"
+        },
+        "C": {
+            "item": "#COAL_ANY"
+        }
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:upgrade_compressor",
+        "data": 0
+    },
+    "pattern": [
+        " C ",
+        "PUP",
+        " C "
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "U": {
+            "item": "ironbackpacksredone:upgrade_base"
+        },
+        "C": {
+            "item": "#CRAFTING_TABLE"
+        },
+        "P": {
+            "item": "#PISTON"
+        }
+    }
+}

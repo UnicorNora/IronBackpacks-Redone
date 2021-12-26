@@ -1,0 +1,19 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:upgrade_void",
+        "data": 0
+    },
+    "pattern": [
+        "U",
+        "L"
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "U": {
+            "item": "ironbackpacksredone:upgrade_base"
+        },
+        "L": {
+            "item": "minecraft:lava_bucket"
+        }
+    }
+}

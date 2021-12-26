@@ -1,0 +1,23 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:upgrade_lighting",
+        "data": 0
+    },
+    "pattern": [
+        " T ",
+        "TUT",
+        "DTD"
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "U": {
+            "item": "ironbackpacksredone:upgrade_base"
+        },
+        "T": {
+            "item": "#TORCH"
+        },
+        "D": {
+            "item": "minecraft:dispenser"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:backpack_gold",
+        "data": 0
+    },
+    "pattern": [
+        "GCG",
+        "GBG",
+        "GGG"
+    ],
+    "type": "ironbackpacksredone:backpack_upgrade",
+    "key": {
+        "C": {
+            "item": "#CHEST"
+        },
+        "B": {
+            "item": "ironbackpacksredone:backpack_iron",
+            "data": 0
+        },
+        "G": {
+            "item": "#INGOT_GOLD"
+        }
+    }
+}

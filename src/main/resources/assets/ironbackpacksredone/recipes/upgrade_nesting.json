@@ -1,0 +1,23 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:upgrade_nesting",
+        "data": 0
+    },
+    "pattern": [
+        "LDL",
+        " U ",
+        "LDL"
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "U": {
+            "item": "ironbackpacksredone:upgrade_base"
+        },
+        "L": {
+            "item": "#LEATHER"
+        },
+        "D": {
+            "item": "#GEM_DIAMOND"
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:upgrade_ender_chest",
+        "data": 0
+    },
+    "pattern": [
+        "E",
+        "U"
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "U": {
+            "item": "ironbackpacksredone:upgrade_base"
+        },
+        "E": {
+            "item": "minecraft:ender_chest"
+        }
+    }
+}

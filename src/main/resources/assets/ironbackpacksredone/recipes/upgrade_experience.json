@@ -1,0 +1,29 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:upgrade_experience",
+        "data": 0
+    },
+    "pattern": [
+        " E ",
+        "LUL",
+        "CPC"
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "U": {
+            "item": "ironbackpacksredone:upgrade_base"
+        },
+        "E": {
+            "item": "minecraft:enchanting_table"
+        },
+        "L": {
+            "item": "#BLOCK_LAPIS"
+        },
+        "P": {
+            "item": "#PEARL_ENDER"
+        },
+        "C": {
+            "item": "minecraft:chorus_fruit"
+        }
+    }
+}

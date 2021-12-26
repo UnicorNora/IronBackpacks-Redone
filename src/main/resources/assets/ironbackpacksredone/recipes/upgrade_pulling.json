@@ -1,0 +1,19 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:upgrade_pulling",
+        "data": 0
+    },
+    "pattern": [
+        "U",
+        "H"
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "U": {
+            "item": "ironbackpacksredone:upgrade_base"
+        },
+        "H": {
+            "item": "minecraft:hopper"
+        }
+    }
+}

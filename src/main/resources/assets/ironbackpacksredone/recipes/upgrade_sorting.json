@@ -1,0 +1,23 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:upgrade_sorting",
+        "data": 0
+    },
+    "pattern": [
+        "PB ",
+        "BUB",
+        " BP"
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "U": {
+            "item": "ironbackpacksredone:upgrade_base"
+        },
+        "B": {
+            "item": "#BOOK"
+        },
+        "P": {
+            "item": "#PEARL_ENDER"
+        }
+    }
+}

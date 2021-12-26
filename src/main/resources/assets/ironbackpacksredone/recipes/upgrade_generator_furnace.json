@@ -1,0 +1,26 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:upgrade_generator_furnace",
+        "data": 0
+    },
+    "pattern": [
+        "IRI",
+        "IUI",
+        "FFF"
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "U": {
+            "item": "ironbackpacksredone:upgrade_base"
+        },
+        "F": {
+            "item": "#FURNACE"
+        },
+        "R": {
+            "item": "#BLOCK_REDSTONE"
+        },
+        "I": {
+            "item": "#INGOT_IRON"
+        }
+    }
+}

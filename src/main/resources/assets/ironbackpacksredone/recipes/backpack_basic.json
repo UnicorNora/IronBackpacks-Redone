@@ -1,0 +1,23 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:backpack",
+        "data": 0
+    },
+    "pattern": [
+        "WLW",
+        "LCL",
+        "WLW"
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "L": {
+            "item": "#LEATHER"
+        },
+        "C": {
+            "item": "#CHEST"
+        },
+        "W": {
+            "item": "#WOOL"
+        }
+    }
+}

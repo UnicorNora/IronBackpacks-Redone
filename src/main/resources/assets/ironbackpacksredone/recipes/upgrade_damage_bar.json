@@ -1,0 +1,28 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:upgrade_damage_bar",
+        "data": 0
+    },
+    "pattern": [
+        "SUS",
+        "RGB"
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "U": {
+            "item": "ironbackpacksredone:upgrade_base"
+        },
+        "S": {
+            "item": "#STICK"
+        },
+        "R": {
+            "item": "#DYE_RED"
+        },
+        "G": {
+            "item": "#DYE_GREEN"
+        },
+        "B": {
+            "item": "#DYE_BLUE"
+        }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "recipes": {
+        "backpack_dye": "com.unicornora.ironbackpacksredone.recipe.FactoryDyeBackpack",
+        "backpack_upgrade": "com.unicornora.ironbackpacksredone.recipe.FactoryUpgradeBackpack"
+    }
+}

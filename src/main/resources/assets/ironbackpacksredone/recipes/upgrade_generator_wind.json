@@ -1,0 +1,20 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:upgrade_generator_wind",
+        "data": 0
+    },
+    "pattern": [
+        " I ",
+        "IUI",
+        " I "
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "U": {
+            "item": "ironbackpacksredone:upgrade_base"
+        },
+        "I": {
+            "item": "minecraft:iron_trapdoor"
+        }
+    }
+}

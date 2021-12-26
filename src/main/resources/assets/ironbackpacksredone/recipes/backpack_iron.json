@@ -1,0 +1,24 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:backpack_iron",
+        "data": 0
+    },
+    "pattern": [
+        "ICI",
+        "IBI",
+        "III"
+    ],
+    "type": "ironbackpacksredone:backpack_upgrade",
+    "key": {
+        "C": {
+            "item": "#CHEST"
+        },
+        "I": {
+            "item": "#INGOT_IRON"
+        },
+        "B": {
+            "item": "ironbackpacksredone:backpack",
+            "data": 0
+        }
+    }
+}

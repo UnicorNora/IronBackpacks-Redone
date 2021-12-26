@@ -1,0 +1,23 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:upgrade_induction_coil",
+        "data": 0
+    },
+    "pattern": [
+        "GI ",
+        "IUI",
+        " IG"
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "U": {
+            "item": "ironbackpacksredone:upgrade_base"
+        },
+        "G": {
+            "item": "#INGOT_GOLD"
+        },
+        "I": {
+            "item": "#INGOT_IRON"
+        }
+    }
+}

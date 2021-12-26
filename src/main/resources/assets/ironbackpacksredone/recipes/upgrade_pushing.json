@@ -1,0 +1,19 @@
+{
+    "result": {
+        "item": "ironbackpacksredone:upgrade_pushing",
+        "data": 0
+    },
+    "pattern": [
+        "U",
+        "D"
+    ],
+    "type": "forge:ore_shaped",
+    "key": {
+        "U": {
+            "item": "ironbackpacksredone:upgrade_base"
+        },
+        "D": {
+            "item": "minecraft:dropper"
+        }
+    }
+}
