@@ -47,3 +47,4 @@ This project is licensed under the GNU LGPL License - see the [LICENSE](LICENSE)
 [curseImg]: http://cf.way2muchnoise.eu/366063.svg?badge_style=for_the_badge
 
 [curseLink]: https://www.curseforge.com/minecraft/mc-mods/iron-backpacks-redone
+[curseLink]: https://www.curseforge.com/minecraft/mc-mods/iron-backpacks-redone
